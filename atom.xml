@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ExaAlice.github.io</id>
+    <title>ALICEBLOG</title>
+    <updated>2022-12-11T06:15:02.492Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ExaAlice.github.io"/>
+    <link rel="self" href="https://ExaAlice.github.io/atom.xml"/>
+    <subtitle>事而为事，由无以成</subtitle>
+    <logo>https://ExaAlice.github.io/images/avatar.png</logo>
+    <icon>https://ExaAlice.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, ALICEBLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[使用telegram-upload上传文件到TG]]></title>
+        <id>https://ExaAlice.github.io/post/tKwl6qema/</id>
+        <link href="https://ExaAlice.github.io/post/tKwl6qema/">
+        </link>
+        <updated>2022-11-19T16:44:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 企业版 LTSC 2021]]></title>
+        <id>https://ExaAlice.github.io/post/oKuA3siG9/</id>
+        <link href="https://ExaAlice.github.io/post/oKuA3siG9/">
+        </link>
+        <updated>2022-10-27T06:01:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2022(VS2022)激活密钥]]></title>
+        <id>https://ExaAlice.github.io/post/B4iYrJ-Gh/</id>
+        <link href="https://ExaAlice.github.io/post/B4iYrJ-Gh/">
+        </link>
+        <updated>2022-09-16T05:29:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Voice保号]]></title>
+        <id>https://ExaAlice.github.io/post/3LtgKaZ7a/</id>
+        <link href="https://ExaAlice.github.io/post/3LtgKaZ7a/">
+        </link>
+        <updated>2022-09-14T09:19:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多个 Apple ID 切换不用每次双重认证的方法]]></title>
+        <id>https://ExaAlice.github.io/post/eR0Ys9nEm/</id>
+        <link href="https://ExaAlice.github.io/post/eR0Ys9nEm/">
+        </link>
+        <updated>2022-09-14T04:39:51.000Z</updated>
+    </entry>
+</feed>
